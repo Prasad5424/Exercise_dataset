@@ -13,7 +13,7 @@ Diet: The type of diet (low fat vs. no fat) had a subtle but noticeable impact, 
 Time: Pulse rates consistently increased over time during physical activity, indicating a sustained physiological response.
 
 Repository Contents
-EDA_Exercise_Dataset.ipynb: The main Jupyter Notebook containing all the Python code for data loading, cleaning, visualization, and analysis.
+EDA_Exercise_Dataset.ipynb: The Google Colab containing all the Python code for data loading, cleaning, visualization, and analysis.
 
 Technologies and Libraries
 Python: The primary programming language used.
